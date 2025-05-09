@@ -1,0 +1,19 @@
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\bin\Debug\Cartoon Coursework.exe.config
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\bin\Debug\Cartoon Coursework.exe
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\bin\Debug\Cartoon Coursework.pdb
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\obj\Debug\Cartoon Coursework.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\obj\Debug\Cartoon_Coursework.Start.resources
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\obj\Debug\Cartoon_Coursework.Properties.Resources.resources
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\obj\Debug\Cartoon Coursework.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\obj\Debug\Cartoon Coursework.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\obj\Debug\Cartoon Coursework.exe
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\obj\Debug\Cartoon Coursework.pdb
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\obj\Debug\Cartoon_Coursework.Form2.resources
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\obj\Debug\Cartoon_Coursework.Form3.resources
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\obj\Debug\Cartoon_Coursework.Form4.resources
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\obj\Debug\Cartoon_Coursework.Form5.resources
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\obj\Debug\Cartoon_Coursework.Form6.resources
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\bin\Debug\Database1.mdf
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\bin\Debug\Database1_log.ldf
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\bin\Debug\Database2.mdf
+C:\Users\franc\OneDrive\Documents\GitHub\Coursework-C\Cartoon Coursework\bin\Debug\Database2_log.ldf
